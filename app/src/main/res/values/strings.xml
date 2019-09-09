@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AkhaSanhita</string>
+    <string name="title">અખાના છપ્પા</string>
+    <string name="vedanish">1. વેષનિંદા અંગ</string>
+    <string name="abhadchet">2. આભડછેટનિંદા અંગ</string>
+    <string name="sthuldosh">3. શ્થુળદોષ અંગ</string>
+    <string name="prapanch">4. પ્રપંચ અંગ</string>
+    <string name="chanak">5. ચાનક અંગ</string>
+    <string name="shukshma">6. સુક્ષ્મદોષ અંગ</string>
+    <string name="bhasha">7. ભાષા અંગ</string>
+    <string name="khalgyani">8. ખળજ્ઞાની અંગ</string>
+    <string name="jadbhakti">9. જડભક્તિ અંગ</string>
+    <string name="sagunbhakti">10. સગુણભક્તિ અંગ</string>
+    <string name="dambhbhakti">11. દંભભક્તિ અંગ</string>
+    <string name="gyandagth">12. જ્ઞાનદગ્ધ અંગ</string>
+    <string name="dashvigyani">13. દશવિધજ્ઞાની અંગ</string>
+    <string name="vibharam">14. વિભ્રમ અંગ</string>
+    <string name="fatfal">15. કુટફળ અંગ</string>
+
+
+</resources>

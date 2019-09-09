@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/title"
+                android:textSize="28sp"
+                android:textColor="#ACAC46"
+                />
+
+            <Button
+                android:id="@+id/btn_Vedanish"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/vedanish"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/btn_abhadchet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/abhadchet"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn-sthool"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/sthuldosh"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_prapanch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/prapanch"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_chanak"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/chanak"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:textSize="18sp"
+                android:id="@+id/btn_sukshmadosh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/shukshma"
+                android:textColor="@android:color/background_light"/>
+
+            <Button
+                android:id="@+id/btn_bhasha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/bhasha"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn-khalgyani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/khalgyani"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_jadbhakti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/jadbhakti"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_sagunbhakti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/sagunbhakti"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_dambhbhakti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/dambhbhakti"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_gyandagdh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/gyandagth"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_dashvighgyani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/dashvigyani"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_vibhram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/vibharam"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/btn_fatfal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ACAC46"
+                android:text="@string/fatfal"
+                android:layout_marginBottom="15dp"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
