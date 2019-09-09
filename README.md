@@ -3,6 +3,6 @@ AkhaSanhita is a collection of CHAPPA’s by “AkhaBhagat”- A Famous
 Gujarati poet.
 
 Home Page:
-![home page](https://user-images.githubusercontent.com/54990175/64533311-cfd14480-d330-11e9-8636-dd0f73fc2d17.png)
+<img src="https://user-images.githubusercontent.com/54990175/64533311-cfd14480-d330-11e9-8636-dd0f73fc2d17.png" width="100" height="100">
 
 
